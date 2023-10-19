@@ -8,18 +8,6 @@
 
   <!-- project badges -->
   <p align="center">
- <!--
-   <img 
-      alt="Project programing languages count" 
-      src="https://img.shields.io/github/languages/count/felipeAguiarCode/node-js-bulk-downloader?color=6A57D5"
-    >
- -->
-  <!--
-    <img 
-      alt="Last commit on GitHub" 
-      src="https://img.shields.io/github/last-commit/felipeAguiarCode/node-js-bulk-downloader?color=6A57D5"
-    >
-  -->
     <img 
         src="https://img.shields.io/badge/Code%20With-Angular%2016-E31918?logo=angular" 
         alt="Code With Angular">
@@ -31,13 +19,13 @@
 
 <div align="center">
   	<a href="#">
-      <img src=".github/assets/Projeto-Santander-DevWeek.png" width="400" alt="preview" />
+      <img src= ".assets/BlogPreview.png" width="400" alt="preview" />
   	</a>
 </div>
 
   <!-- project description and menu -->
   <p align="center">
-      A Clone From Santander Card home page with Angular
+      Preview da homepage do blog criado
     <br />
     <br />
     <br />
@@ -51,21 +39,15 @@
       Request Feature
     </a>
 		<h2> Clique aqui e acesse a Aplicação </h2>
-		<a href="https://angular-santander-dev-week.vercel.app/"> Tela inicial Santander </a> 
+		<a href=" " target="_blank"> Blog em Angular </a> 
   </p>
 </div>
 
-## Features
-- [x] This project was developed entirely in Angular and aims only to show and put into practice some concepts
-			that are often used in development with the Angular framework, such as: dependencies, configuration, Angular Cli,
-			Node.js, components and their injection, etc, just one for a first contact with the framework.
+## Tecnologia e técnicas
+- [x] Esse projeto foi desenvolvido utilizando a tecnologia Angular e todos os seus benefícios disponibilizados para o bom desenvolvimento de um programador. Utilizamos conceitos do ciclo de vida de um componente, multi styles, padronização de projeto e muito mais, tudo isso apresentados em aula.
 
-## Technologies & Techniques
-
-This project was developed with the following technologies:
--   Angular: as mentioned, Angular was the framework used, but within it we have several technologies such as: TypeScript, CSS and HTML.
-In addition to the notion developed about the project structure, with the configuration Jsons
-of all project properties and modules node.
+## Feedback
+- Foi muito legal desenvolver um projeto já com uma complexidade bem mais ampla do que estavamos acostumados, mas ao longo das diversas aulas fomos aprendendo e aprofundando um pouco mais em cada conceito gradativamente, o que eliminou aquele primeiro impacto e diminuiu a dificuldade no desenvolvimento. Agradeço mais uma vez a [DIO](www.dio.me) e ao [Santander](https://app.becas-santander.com/pt-BR/program/bolsas-santander-santander-bootcamp-2023) pela oportunidade! 
 
 
 ## Mentor do Projeto
