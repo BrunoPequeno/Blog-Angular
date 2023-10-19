@@ -19,7 +19,7 @@
 
 <div align="center">
   	<a href="#">
-      <img src= ".github/assets/BlogPreview.png" width="400" alt="preview" />
+      <img src= ".github/assets/BlogPreview.png" width="600" alt="preview" />
   	</a>
 </div>
 
@@ -30,16 +30,16 @@
     <br />
     <br />
     <a 
-      href="https://github.com/BrunoPequeno/Angular-Santander-DevWeek/issues">
+      href="https://github.com/BrunoPequeno/Blog-Angular/issues">
       Report Bug
     </a>
     ·
     <a 
-      href="https://github.com/BrunoPequeno/Angular-Santander-DevWeek/issues/new">
+      href="https://github.com/BrunoPequeno/Blog-Angular/issues/new">
       Request Feature
     </a>
 		<h2> Clique aqui e acesse a Aplicação </h2>
-		<a href=" " target="_blank"> Blog em Angular </a> 
+		<a href="https://marvel-universe-sigma.vercel.app/" target="_blank"> Blog em Angular </a> 
   </p>
 </div>
 
