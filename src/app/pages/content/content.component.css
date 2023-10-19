@@ -14,8 +14,8 @@
   align-items: center;
 }
 
-.content__cover {
-  margin-top: 20px;
+.content__title > h1 {
+  padding: 5px;
 }
 
 .content__cover > img{
@@ -25,11 +25,7 @@
   width: 600px;
   min-width: 500px;
   height: 300px;
-
-}
-
-.content__title > h1 {
-  background: transparent;
+  border-top: 50px;
 }
 
 .content__description{
